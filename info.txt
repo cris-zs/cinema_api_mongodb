@@ -1,0 +1,33 @@
+"title": "Spirited Away",
+"director": "Hayao Miyazaki",
+"relaseDate": "2001-09-20",
+"genres": ["Fantasy","Adventure","Animation"],
+"score": 96,
+"rating":"PG",
+"duration": "2hr 5min",
+"isActive": true
+
+"firstName": "Cristina",
+"lastName": "Zapata",
+"birthDate":"1997-05-07",
+"role":"CUSTOMER",
+"phone": 6141234567,
+"email": "cristinaz0597@gmail.com",
+"userName": "czs",
+"password": "thisIsNotAPwd",
+"isActive": true
+"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2MzI3MmE4NzBkNGUxYzNmYzU1MDZkNCIsInVzZXJOYW1lIjoiY3pzIiwicm9sZSI6IkNVU1RPTUVSIiwiaWF0IjoxNzE0NTgzMDExLCJleHAiOjE3MTUxODc4MTF9.44xmYIqI1zGtlxebArzMWrh3uAQLuNXM6FbCwlO4pCQ"
+
+"userName": "azapata",
+    "password": "thisMayBeAPwd"
+"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjY2MzJhZTA3ZDdiNmQ3NGNlOGRjOWEwZSIsInVzZXJOYW1lIjoiYXphcGF0YSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTcxNDYwNzkwOCwiZXhwIjoxNzE1MjEyNzA4fQ.hI1suwjkrPq3m8KOUFONVpEQWDAAVBOBSlnoBxxTxFE"
+
+mongosh "mongodb+srv://cluster0.8kbv5ns.mongodb.net/cinema_db" --apiVersion 1 --cristinaz0597 <cristinaz0597>
+mongosh "mongodb+srv://cluster0.8kbv5ns.mongodb.net/cinema_db/" --apiVersion 1 --username <cristinaz0597>
+mongodb+srv://cristinaz0597:3I6yYFpncjjPv3No@cluster0.8kbv5ns.mongodb.net/cinema_db
+
+"amount": 2,
+"priceSingle": 30,
+"totalPrice": undefined,
+"screeningTime": "6:30 pm",
+"seats": "[A-1, A-2]"
